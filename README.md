@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=eliasbenb&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=eliasbenb&include_all_commits=trues&show_icons=true&count_private=true" />
 </div>
 <div align="center">
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=00x7ee8wq8bffzl6or19h2n9r&redirect=true">
