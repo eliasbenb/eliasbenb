@@ -12,7 +12,7 @@
     src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg
     alt="java" width="30" height="30" />
   </a>
-  <a href="https://www.javascript.com/" target="_blank">
+  <a href="https://javascript.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
@@ -21,7 +21,7 @@
     />
   </a>
   <a
-    href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5/"
+    href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
     target="_blank"
   >
     <img
@@ -31,7 +31,7 @@
       height="30"
     />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
       alt="css3"
@@ -39,7 +39,7 @@
       height="30"
     />
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
+  <a href="https://flask.palletsprojects.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
       alt="flask"
@@ -47,7 +47,7 @@
       height="30"
     />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
+  <a href="https://mongodb.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
       alt="mongodb"
@@ -71,7 +71,7 @@
       height="30"
     />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-scm.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
       alt="git"
@@ -79,7 +79,7 @@
       height="30"
     />
   </a>
-  <a href="https://docker.com/" target="_blank">
+  <a href="https://docker.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
       alt="docker"
@@ -95,7 +95,7 @@
       height="30"
     />
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
+  <a href="https://code.visualstudio.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
       alt="vscode"
@@ -103,7 +103,7 @@
       height="30"
     />
   </a>
-  <a href="https://www.ubuntu.com/" target="_blank">
+  <a href="https://ubuntu.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"
       alt="ubuntu"
