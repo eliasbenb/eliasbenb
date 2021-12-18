@@ -3,7 +3,7 @@
     <a href="https://python.org/" target="_blank">
       <img
         src="https://elias.eu.org/img/skills/python.svg"
-        alt="python"
+        alt="Python"
         width="58"
         height="48"
       />
@@ -11,12 +11,12 @@
     <a href="https://adoptopenjdk.net/" target="_blank">
       <img
       src="https://elias.eu.org/img/skills/java.svg"
-      alt="java" width="58" height="48" />
+      alt="Java" width="58" height="48" />
     </a>
     <a href="https://javascript.com" target="_blank">
       <img
         src="https://elias.eu.org/img/skills/javascript.svg"
-        alt="javascript"
+        alt="JavaScript"
         width="58"
         height="48"
       />
@@ -27,7 +27,7 @@
     >
       <img
         src="https://elias.eu.org/img/skills/html5.svg"
-        alt="html5"
+        alt="HTML5"
         width="58"
         height="48"
       />
@@ -35,7 +35,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
       <img
         src="https://elias.eu.org/img/skills/css3.svg"
-        alt="css3"
+        alt="CSS3"
         width="58"
         height="48"
       />
@@ -43,7 +43,7 @@
     <a href="https://flask.palletsprojects.com" target="_blank">
       <img
         src="https://elias.eu.org/img/skills/flask.svg"
-        alt="flask"
+        alt="Flask"
         width="58"
         height="48"
       />
@@ -51,7 +51,7 @@
     <a href="https://mongodb.com" target="_blank">
       <img
         src="https://elias.eu.org/img/skills/mongodb.svg"
-        alt="mongodb"
+        alt="MongoDB"
         width="58"
         height="48"
       />
@@ -59,7 +59,7 @@
     <a href="https://godotengine.org" target="_blank">
       <img
         src="https://elias.eu.org/img/skills/godot.svg"
-        alt="godot"
+        alt="Godot Engine"
         width="58"
         height="48"
       />
@@ -68,8 +68,8 @@
   <div>
         <a href="https://reactjs.org" target="_blank">
       <img
-        src="https://elias.eu.org/img/skills/react.svg"
-        alt="reactjs"
+        src="https://elias.eu.org/img/skills/reactjs.svg"
+        alt="ReactJS"
         width="58"
         height="48"
       />
@@ -77,7 +77,7 @@
     <a href="https://vuejs.org" target="_blank">
       <img
         src="https://elias.eu.org/img/skills/vuejs.svg"
-        alt="vuejs"
+        alt="VueJS"
         width="58"
         height="48"
       />
@@ -85,7 +85,7 @@
     <a href="https://git-scm.com" target="_blank">
       <img
         src="https://elias.eu.org/img/skills/git.svg"
-        alt="git"
+        alt="Git"
         width="58"
         height="48"
       />
@@ -93,7 +93,7 @@
     <a href="https://github.com" target="_blank">
       <img
         src="https://elias.eu.org/img/skills/github.svg"
-        alt="github"
+        alt="GitHub"
         width="58"
         height="48"
       />
@@ -101,7 +101,7 @@
     <a href="https://docker.com" target="_blank">
       <img
         src="https://elias.eu.org/img/skills/docker.svg"
-        alt="docker"
+        alt="Docker"
         width="58"
         height="48"
       />
@@ -109,7 +109,7 @@
     <a href="https://heroku.com" target="_blank">
       <img
         src="https://elias.eu.org/img/skills/heroku.svg"
-        alt="heroku"
+        alt="Heroku"
         width="58"
         height="48"
       />
@@ -117,7 +117,7 @@
     <a href="https://code.visualstudio.com" target="_blank">
       <img
         src="https://elias.eu.org/img/skills/vscode.svg"
-        alt="vscode"
+        alt="VSCode"
         width="58"
         height="48"
       />
@@ -125,7 +125,7 @@
     <a href="https://ubuntu.com" target="_blank">
       <img
         src="https://elias.eu.org/img/skills/ubuntu.svg"
-        alt="ubuntu"
+        alt="Ubuntu"
         width="58"
         height="48"
       />
