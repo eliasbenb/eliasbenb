@@ -1,116 +1,136 @@
 <div align="center">
-  <a href="https://python.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://adoptopenjdk.net/" target="_blank">
-    <img
-    src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg
-    alt="java" width="30" height="30" />
-  </a>
-  <a href="https://javascript.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
-    target="_blank"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-      alt="html5"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-      alt="css3"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://flask.palletsprojects.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
-      alt="flask"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://mongodb.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-      alt="mongodb"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-      alt="react"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://vuejs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
-      alt="vuejs"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://git-scm.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-      alt="git"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://docker.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-      alt="docker"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://heroku.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg"
-      alt="heroku"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://code.visualstudio.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-      alt="vscode"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://ubuntu.com" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"
-      alt="ubuntu"
-      width="30"
-      height="30"
-    />
-  </a>
+  <div>
+    <a href="https://python.org/" target="_blank">
+      <img
+        src="https://elias.eu.org/img/skills/python.svg"
+        alt="python"
+        width="58"
+        height="48"
+      />
+    </a>
+    <a href="https://adoptopenjdk.net/" target="_blank">
+      <img
+      src="https://elias.eu.org/img/skills/java.svg"
+      alt="java" width="58" height="48" />
+    </a>
+    <a href="https://javascript.com" target="_blank">
+      <img
+        src="https://elias.eu.org/img/skills/javascript.svg"
+        alt="javascript"
+        width="58"
+        height="48"
+      />
+    </a>
+    <a
+      href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+      target="_blank"
+    >
+      <img
+        src="https://elias.eu.org/img/skills/html5.svg"
+        alt="html5"
+        width="58"
+        height="48"
+      />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+      <img
+        src="https://elias.eu.org/img/skills/css3.svg"
+        alt="css3"
+        width="58"
+        height="48"
+      />
+    </a>
+    <a href="https://flask.palletsprojects.com" target="_blank">
+      <img
+        src="https://elias.eu.org/img/skills/flask.svg"
+        alt="flask"
+        width="58"
+        height="48"
+      />
+    </a>
+    <a href="https://mongodb.com" target="_blank">
+      <img
+        src="https://elias.eu.org/img/skills/mongodb.svg"
+        alt="mongodb"
+        width="58"
+        height="48"
+      />
+    </a>
+    <a href="https://godotengine.org" target="_blank">
+      <img
+        src="https://elias.eu.org/img/skills/godot.svg"
+        alt="godot"
+        width="58"
+        height="48"
+      />
+    </a>
+  </div>
+  <div>
+        <a href="https://reactjs.org" target="_blank">
+      <img
+        src="https://elias.eu.org/img/skills/react.svg"
+        alt="reactjs"
+        width="58"
+        height="48"
+      />
+    </a>
+    <a href="https://vuejs.org" target="_blank">
+      <img
+        src="https://elias.eu.org/img/skills/vuejs.svg"
+        alt="vuejs"
+        width="58"
+        height="48"
+      />
+    </a>
+    <a href="https://git-scm.com" target="_blank">
+      <img
+        src="https://elias.eu.org/img/skills/git.svg"
+        alt="git"
+        width="58"
+        height="48"
+      />
+    </a>
+    <a href="https://github.com" target="_blank">
+      <img
+        src="https://elias.eu.org/img/skills/github.svg"
+        alt="github"
+        width="58"
+        height="48"
+      />
+    </a>
+    <a href="https://docker.com" target="_blank">
+      <img
+        src="https://elias.eu.org/img/skills/docker.svg"
+        alt="docker"
+        width="58"
+        height="48"
+      />
+    </a>
+    <a href="https://heroku.com" target="_blank">
+      <img
+        src="https://elias.eu.org/img/skills/heroku.svg"
+        alt="heroku"
+        width="58"
+        height="48"
+      />
+    </a>
+    <a href="https://code.visualstudio.com" target="_blank">
+      <img
+        src="https://elias.eu.org/img/skills/vscode.svg"
+        alt="vscode"
+        width="58"
+        height="48"
+      />
+    </a>
+    <a href="https://ubuntu.com" target="_blank">
+      <img
+        src="https://elias.eu.org/img/skills/ubuntu.svg"
+        alt="ubuntu"
+        width="58"
+        height="48"
+      />
+    </a>
+  </div>
 </div>
 <div align="center">
   <a href="https://elias.eu.org" target="_blank">
